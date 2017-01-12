@@ -1,0 +1,7 @@
+D:\Programming\Visual Studio Projects\iNet Speed Meter\iNet Speed Meter\bin\Debug\iNet Speed Meter.exe
+D:\Programming\Visual Studio Projects\iNet Speed Meter\iNet Speed Meter\bin\Debug\iNet Speed Meter.pdb
+D:\Programming\Visual Studio Projects\iNet Speed Meter\iNet Speed Meter\obj\x86\Debug\iNet_Speed_Meter.Form.resources
+D:\Programming\Visual Studio Projects\iNet Speed Meter\iNet Speed Meter\obj\x86\Debug\iNet_Speed_Meter.Properties.Resources.resources
+D:\Programming\Visual Studio Projects\iNet Speed Meter\iNet Speed Meter\obj\x86\Debug\iNet Speed Meter.csproj.GenerateResource.Cache
+D:\Programming\Visual Studio Projects\iNet Speed Meter\iNet Speed Meter\obj\x86\Debug\iNet Speed Meter.exe
+D:\Programming\Visual Studio Projects\iNet Speed Meter\iNet Speed Meter\obj\x86\Debug\iNet Speed Meter.pdb
